@@ -11,4 +11,4 @@ ___________________________
 Выполнено при помощи HTML и CSS 
 ___________________________
 
-сслыка на github pages: 
+сслыка на github pages:  https://alz228.github.io/how-to-learn/
